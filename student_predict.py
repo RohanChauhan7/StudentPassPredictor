@@ -33,7 +33,7 @@ scaler = StandardScaler()
 # Fit the scaler to training data and transform it
 X_train_scaled = scaler.fit_transform(X_train)
 
-# Use the same scaling on the test data (don’t fit again!)
+# Use the same scaling on the test data 
 X_test_scaled = scaler.transform(X_test)
 
 # Turn scaled data back into DataFrames to keep track of column names easily
