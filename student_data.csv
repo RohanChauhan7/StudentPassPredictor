@@ -1,0 +1,16 @@
+Name,Gender,Age,StudyHoursPerWeek,AttendancePercent,PreviousGrade,FinalGrade,Passed
+Aarav,Male,17,12,95,85,88,Yes
+Priya,Female,16,8,88,78,80,Yes
+Rohan,Male,17,5,60,65,55,No
+Sneha,Female,18,10,90,82,85,Yes
+Vikram,Male,17,3,50,55,40,No
+Anjali,Female,19,14,98,90,92,Yes
+Rahul,Male,18,7,70,72,75,Yes
+Meena,Female,17,4,65,60,58,No
+Karan,Male,17,11,85,80,82,Yes
+Isha,Female,11,9,92,86,89,Yes
+Nikhil,Male,18,2,40,45,30,No
+Tanya,Female,17,13,94,88,91,Yes
+Aditya,Male,17,6,72,70,68,Yes
+Riya,Female,18,5,68,66,64,No
+Siddharth,Male,18,9,80,78,81,Yes
